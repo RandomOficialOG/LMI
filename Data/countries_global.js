@@ -210,7 +210,6 @@ window.countries_global = {
     navy: { frigates: 11, destroyers: 0, submarines: 2, carriers: 1, corvettes: 0, patrol: 100 }
   },
 
-  // NUEVOS PAÍSES AÑADIDOS (para completar Top 40)
   canada: {
     name: "Canadá", 
     code: "ca", 
@@ -453,7 +452,6 @@ window.countries_global = {
     navy: { frigates: 4, destroyers: 0, submarines: 3, carriers: 0, corvettes: 0, patrol: 22 }
   },
 
-  // POTENCIAS NUCLEARES ADICIONALES
   northkorea: {
     name: "Corea del Norte", 
     code: "kp", 
@@ -465,7 +463,6 @@ window.countries_global = {
     navy: { frigates: 0, destroyers: 0, submarines: 70, carriers: 0, corvettes: 0, patrol: 430 }
   },
 
-// PAÍSES ADICIONALES (40 nuevos para expandir global)
   unitedarabemirates: {
     name: "Emiratos Árabes Unidos", 
     code: "ae", 
@@ -576,7 +573,6 @@ window.countries_global = {
     navy: { frigates: 0, destroyers: 0, submarines: 0, carriers: 0, corvettes: 6, patrol: 20 }
   },
 
-  // Más para llegar a 40...
   denmark: {
     name: "Dinamarca", 
     code: "dk", 
@@ -632,7 +628,6 @@ window.countries_global = {
     navy: { frigates: 0, destroyers: 0, submarines: 0, carriers: 0, corvettes: 0, patrol: 0 }
   },
 
-  // Continúo hasta 40 con variedad (África, Asia, Europa, etc.)
   kenya: {
     name: "Kenia", 
     code: "ke", 
@@ -688,7 +683,6 @@ window.countries_global = {
     navy: { frigates: 2, destroyers: 0, submarines: 0, carriers: 0, corvettes: 0, patrol: 10 }
   },
   
-  // PAÍSES ADICIONALES COMPLETANDO 40 + 20 EXTRA (total 30 aquí)
   belgium: {
     name: "Bélgica", 
     code: "be", 
@@ -909,7 +903,6 @@ window.countries_global = {
     navy: { frigates: 0, destroyers: 0, submarines: 0, carriers: 0, corvettes: 4, patrol: 20 }
   },
 
-  // EXTRA 10 para redondear
   slovakia: {
     name: "Eslovaquia", 
     code: "sk", 
@@ -1020,7 +1013,6 @@ window.countries_global = {
     navy: { frigates: 0, destroyers: 0, submarines: 0, carriers: 0, corvettes: 0, patrol: 0 }
   },
 
-// ÚLTIMOS 20 PAÍSES - LLEGANDO A 100+ 
   dominicanrepublic: {
     name: "República Dominicana", 
     code: "do", 
@@ -1230,7 +1222,6 @@ window.countries_global = {
     navy: { frigates: 0, destroyers: 0, submarines: 0, carriers: 0, corvettes: 0, patrol: 10 }
   },
 
-    // ... muchos países ...
   madagascar: {
     name: "Madagascar", 
     code: "mg", 
@@ -1241,5 +1232,5 @@ window.countries_global = {
     air: { fighters: 0, bombers: 0, support: 5 },
     navy: { frigates: 0, destroyers: 0, submarines: 0, carriers: 0, corvettes: 0, patrol: 10 }
   }
-  // ⚠️ AQUÍ FALTA ALGO o SOBRA LA COMA
-};  // Este cierre parece estar bien
+  
+};
