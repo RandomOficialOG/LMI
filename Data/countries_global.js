@@ -1,7 +1,6 @@
 console.log("standards_global cargado");
 
 window.countries_global = {
-  // TOP 5 SUPERPOTENCIAS
   usa: {
     name: "Estados Unidos", 
     code: "us",
@@ -35,7 +34,6 @@ window.countries_global = {
     navy: { frigates: 12, destroyers: 10, submarines: 63, carriers: 1, corvettes: 83, patrol: 180 }
   },
 
-  // GRANDES POTENCIAS (Tier A)
   india: {
     name: "India", 
     code: "in", 
@@ -91,7 +89,6 @@ window.countries_global = {
     navy: { frigates: 11, destroyers: 0, submarines: 6, carriers: 0, corvettes: 5, patrol: 35 }
   },
 
-  // POTENCIAS REGIONALES (Tier B)
   southkorea: {
     name: "Corea del Sur", 
     code: "kr", 
@@ -210,7 +207,7 @@ window.countries_global = {
     budget: 23, industrial: 0.70,
     land: { infantry: 133282, tanks: 317, armored: 17626, artillery: 382 },
     air: { fighters: 150, bombers: 0, support: 80 },
-    navy: { frigates: 11, destroyers: 0, submarines: 6, carriers: 1, corvettes: 0, patrol: 100 }
+    navy: { frigates: 11, destroyers: 0, submarines: 2, carriers: 1, corvettes: 0, patrol: 100 }
   },
 
   // NUEVOS PAÍSES AÑADIDOS (para completar Top 40)
