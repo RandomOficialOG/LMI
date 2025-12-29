@@ -18,7 +18,7 @@ function getTier(total, context) {
     if (total >= 1.0) return "A+";
     if (total >= 0.25) return "A";
     if (total >= 0.1) return "B";
-    if (total >= 0.097) return "C";
+    if (total >= 0.025) return "C";
     return "D";
   }
 
