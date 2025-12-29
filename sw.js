@@ -1,16 +1,16 @@
-/* ===============================
-   LATAM FIRE POWER – SERVICE WORKER
-   =============================== */
+/* ====================
+   Latam Military Index 
+   ==================== */
 
-const CACHE_NAME = "latam-fire-power-v1.0.0";
+const CACHE_NAME = "latam-military-Index-v0.0.1";
 
-/* Archivos críticos (carga inicial) */
+/* Archivos necesarios (2 horas oara solucionarlo xD) */
 const CORE_ASSETS = [
   "./",
   "./index.html",
   "./manifest.json",
 
-  /* CSS */
+  /* Estilos (No se ingles) */
   "./styles/variables.css",
   "./styles/layout.css",
   "./styles/rankings.css",
@@ -25,11 +25,11 @@ const CORE_ASSETS = [
   "./styles/responsive.css",
   "./styles/main.css",
 
-  /* UI base */
+  /* UI Principal */
   "./UI/ui.js",
   "./UI/subTabs.js",
 
-  /* Init */
+  /* No se que es xD */
   "./init.js"
 ];
 
